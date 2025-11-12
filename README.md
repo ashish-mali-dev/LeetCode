@@ -6,16 +6,19 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashish-mali-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -29,4 +32,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
