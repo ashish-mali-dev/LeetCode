@@ -52,4 +52,13 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashish-mali-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
