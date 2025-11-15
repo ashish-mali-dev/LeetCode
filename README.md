@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ashish-mali-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
