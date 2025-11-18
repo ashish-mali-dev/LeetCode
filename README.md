@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ashish-mali-dev/LeetCode/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -31,6 +32,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashish-mali-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashish-mali-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ashish-mali-dev/LeetCode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -93,5 +96,6 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashish-mali-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
