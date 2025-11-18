@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ashish-mali-dev/LeetCode/tree/master/0724-find-pivot-index) |
+| [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -28,6 +29,7 @@
 | [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -87,5 +89,6 @@
 | [0076-minimum-window-substring](https://github.com/ashish-mali-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
