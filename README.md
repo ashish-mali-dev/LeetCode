@@ -61,6 +61,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ashish-mali-dev/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/ashish-mali-dev/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -107,4 +108,8 @@
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ashish-mali-dev/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
