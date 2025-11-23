@@ -21,6 +21,7 @@
 | [0907-koko-eating-bananas](https://github.com/ashish-mali-dev/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashish-mali-dev/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashish-mali-dev/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/ashish-mali-dev/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ashish-mali-dev/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashish-mali-dev/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashish-mali-dev/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
