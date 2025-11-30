@@ -101,10 +101,12 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
