@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0338-counting-bits) |
 ## Number Theory
 |  |
 | ------- |
