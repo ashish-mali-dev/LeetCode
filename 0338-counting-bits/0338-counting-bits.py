@@ -8,3 +8,5 @@ class Solution:
                 sub=i
             res[i]=res[i-sub]+1
         return res
+
+# The pattern repeats itself at num*2 interval, so we check back pattern and add 1 as it's shifting
