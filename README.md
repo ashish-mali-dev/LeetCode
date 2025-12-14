@@ -30,6 +30,7 @@
 | [0941-valid-mountain-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ashish-mali-dev/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ashish-mali-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ashish-mali-dev/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -66,6 +67,7 @@
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/ashish-mali-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ashish-mali-dev/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ashish-mali-dev/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
