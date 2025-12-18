@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashish-mali-dev/LeetCode/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashish-mali-dev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashish-mali-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashish-mali-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0344-reverse-string) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ashish-mali-dev/LeetCode/tree/master/1051-height-checker) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
