@@ -3,7 +3,7 @@ class Solution:
         res={}
 
         for s in s1.split():
-            if s not in res:
+            if s not in res:    # can use res[s] = res.get(s, 0) + 1
                 res[s]=1
             else:
                 res[s]+=1
@@ -15,3 +15,4 @@ class Solution:
                 res[s]+=1
         
         return [k for k, v in res.items() if v == 1]
+
