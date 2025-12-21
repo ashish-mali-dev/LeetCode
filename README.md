@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ashish-mali-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ashish-mali-dev/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -140,6 +141,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ashish-mali-dev/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
