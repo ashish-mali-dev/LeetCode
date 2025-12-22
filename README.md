@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/ashish-mali-dev/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ashish-mali-dev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
@@ -154,6 +155,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ashish-mali-dev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
