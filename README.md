@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashish-mali-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ashish-mali-dev/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashish-mali-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ashish-mali-dev/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ashish-mali-dev/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## String
@@ -141,6 +143,7 @@
 | [0076-minimum-window-substring](https://github.com/ashish-mali-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ashish-mali-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ashish-mali-dev/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashish-mali-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
