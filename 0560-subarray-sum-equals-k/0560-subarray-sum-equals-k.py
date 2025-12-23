@@ -1,29 +1,16 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        total = 0
-        curSum = 0
-        prefixSums = { 0:1 } # base case empty array
+        prefix_sum=0 # prefix_sum[i] is sum from 0 to i
+        # we want 2 subarrays sum = k like two sum for each subrray sum we can check if k-subarray sum exist
+        count=0
+        freq={0:1} # imp as subarray starting at idx 0
+        # prefix_sum[j] - prefix_sum[i] = k Then subarray (i+1 → j) has sum k. prefix_sum[i] = prefix_sum[j] - k
+
 
         for num in nums:
-            curSum += num
-            diff = curSum - k
+            prefix_sum+=num
 
-            total += prefixSums.get(diff,0)
-            prefixSums[curSum] = 1 + prefixSums.get(curSum,0)
-        
-        return total
-
-# Prefix Sum approach -  sum_0_to_a + sum_a_to_b  = total sum so far (curSum). We need a prefix that is sum_a_to_b to be equal to k. For that to hold true, replace sum_a_to_b with 'k'. Hence, sum_0_to_a + k  = curSum. Hence curSum - k = sum_0_to_a. And then since we have been storing all possible values of sum_0_to_a so far in the hashmap, curSum - k must exist in the hashmap as a key, and we can simply add the value from the hashmap to add number of prefixes from 0 to any index which equalled to curSum - k .
-# Time and Space complexity - O(n)
-
-# we cannot use two pointer approach as constraint states numbers can be negative as well (increasing window won't guarantee increased total)
-
-# Brute force solution- O(n^2)
-        # total = 0
-        # for i in range(len(nums)):
-        #     sum = 0
-        #     for j in range(i,len(nums)):
-        #         sum += nums[j]
-        #         if(sum == k):
-        #             total += 1
-        # return total
+            if prefix_sum-k in freq:
+                count+=freq[prefix_sum-k]
+            freq[prefix_sum] = freq.get(prefix_sum,0)+1
+        return count
