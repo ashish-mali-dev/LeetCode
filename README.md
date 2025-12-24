@@ -58,6 +58,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ashish-mali-dev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashish-mali-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ashish-mali-dev/LeetCode/tree/master/0383-ransom-note) |
@@ -143,6 +144,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashish-mali-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashish-mali-dev/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashish-mali-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ashish-mali-dev/LeetCode/tree/master/0383-ransom-note) |
