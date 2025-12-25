@@ -103,6 +103,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ashish-mali-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ashish-mali-dev/LeetCode/tree/master/0283-move-zeroes) |
@@ -145,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashish-mali-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashish-mali-dev/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ashish-mali-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashish-mali-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashish-mali-dev/LeetCode/tree/master/0290-word-pattern) |
