@@ -49,6 +49,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashish-mali-dev/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
