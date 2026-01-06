@@ -1,12 +1,12 @@
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
-        max_count=0
         count=0
+        max_count=0
 
-        for i in nums:
-            if(i==0):
-                max_count=max(count,max_count)
+        for num in nums:
+            if num==0:
                 count=0
             else:
                 count+=1
-        return max(count,max_count)
+            max_count=max(max_count,count)
+        return max_count
