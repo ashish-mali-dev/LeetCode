@@ -1,12 +1,10 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        low=0
-        high=len(nums)-1
+        k = 0  # index for placing non-val elements
 
-        while low<=high:
-            if(nums[low]==val):
-                nums[low],nums[high] = nums[high],nums[low]
-                high-=1
-            else:
-                low+=1
-        return low
+        for i in range(len(nums)):
+            if nums[i] != val:
+                nums[k] = nums[i]
+                k += 1
+
+        return k
