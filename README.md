@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/ashish-mali-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashish-mali-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ashish-mali-dev/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -123,6 +124,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ashish-mali-dev/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/ashish-mali-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -136,6 +138,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashish-mali-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ashish-mali-dev/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/ashish-mali-dev/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ashish-mali-dev/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/ashish-mali-dev/LeetCode/tree/master/0645-set-mismatch) |
 ## Number Theory
