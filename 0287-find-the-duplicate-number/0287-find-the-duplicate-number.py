@@ -1,5 +1,6 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
+        # Floyd’s Tortoise and Hare algorithm
         # Phase 1: Detect cycle
         slow = nums[0]
         fast = nums[0]
