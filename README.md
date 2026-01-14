@@ -37,6 +37,7 @@
 | [0724-find-pivot-index](https://github.com/ashish-mali-dev/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ashish-mali-dev/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/ashish-mali-dev/LeetCode/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/ashish-mali-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/ashish-mali-dev/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -135,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashish-mali-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashish-mali-dev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/ashish-mali-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ashish-mali-dev/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ashish-mali-dev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -246,6 +249,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/ashish-mali-dev/LeetCode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
@@ -271,4 +275,8 @@
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/ashish-mali-dev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
