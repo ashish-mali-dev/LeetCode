@@ -42,6 +42,7 @@
 | [0907-koko-eating-bananas](https://github.com/ashish-mali-dev/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ashish-mali-dev/LeetCode/tree/master/1051-height-checker) |
@@ -141,6 +142,7 @@
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/ashish-mali-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ashish-mali-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -193,6 +195,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ashish-mali-dev/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashish-mali-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 ## Backtracking
 |  |
 | ------- |
