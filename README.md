@@ -58,6 +58,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashish-mali-dev/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/ashish-mali-dev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashish-mali-dev/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -241,6 +242,7 @@
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/ashish-mali-dev/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Interactive
 |  |
 | ------- |
