@@ -63,6 +63,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ashish-mali-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -296,4 +299,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
