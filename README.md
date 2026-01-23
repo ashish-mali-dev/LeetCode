@@ -63,6 +63,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ashish-mali-dev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -154,6 +155,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ashish-mali-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ashish-mali-dev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -224,6 +226,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/ashish-mali-dev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ashish-mali-dev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
