@@ -61,6 +61,7 @@
 | [1652-defuse-the-bomb](https://github.com/ashish-mali-dev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashish-mali-dev/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -122,6 +123,7 @@
 | [1051-height-checker](https://github.com/ashish-mali-dev/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ashish-mali-dev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -160,6 +162,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ashish-mali-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashish-mali-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashish-mali-dev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -273,6 +276,7 @@
 | [0011-container-with-most-water](https://github.com/ashish-mali-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Backtracking
 |  |
 | ------- |
