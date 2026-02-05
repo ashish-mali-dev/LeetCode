@@ -3,12 +3,10 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        i=0
-        j=len(s)-1
+        left=0
+        right=len(s)-1
 
-        while(i<j):
-            temp=s[j]
-            s[j]=s[i]
-            s[i]=temp
-            i+=1
-            j-=1
+        while left<right:
+            s[left],s[right] = s[right],s[left]
+            left+=1
+            right-=1
