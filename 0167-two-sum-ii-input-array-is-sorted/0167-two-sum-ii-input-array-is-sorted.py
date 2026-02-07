@@ -10,3 +10,4 @@ class Solution:
                 j-=1
             else:
                 i+=1
+        return [-1,-1]
