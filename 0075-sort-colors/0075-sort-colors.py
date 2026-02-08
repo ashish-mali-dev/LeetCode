@@ -3,16 +3,29 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        left=0
-        right=len(nums)-1
-        i=0
+        counts={}
 
-        while(i<=right):
-            if nums[i]==0:
-                nums[i],nums[left] = nums[left],nums[i]
-                left+=1
-            elif nums[i]==2:
-                nums[i],nums[right] = nums[right],nums[i]
-                right-=1
-                i-=1 # to we dont want to increment i as it can place 0 in middle
-            i+=1
+        for num in nums:
+            if num==0:
+                counts['red']=counts.get('red',0)+1
+            elif num==1:
+                counts['white']=counts.get('white',0)+1
+            else:
+                counts['blue']=counts.get('blue',0)+1
+        
+        for i in range(len(nums)):
+            if 'red' in counts:
+                nums[i]=0
+                counts['red']-=1
+                if counts['red']==0:
+                    del counts['red']
+            elif 'white' in counts:
+                nums[i]=1
+                counts['white']-=1
+                if counts['white']==0:
+                    del counts['white']
+            else:
+                nums[i]=2
+                counts['blue']-=1
+                if counts['blue']==0:
+                    del counts['blue']
