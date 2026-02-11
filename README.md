@@ -142,6 +142,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashish-mali-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashish-mali-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -327,4 +328,8 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashish-mali-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
