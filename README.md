@@ -174,6 +174,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashish-mali-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ashish-mali-dev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/ashish-mali-dev/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -240,6 +241,7 @@
 | [0258-add-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashish-mali-dev/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ashish-mali-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
