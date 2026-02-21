@@ -177,6 +177,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ashish-mali-dev/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2562-find-the-array-concatenation-value](https://github.com/ashish-mali-dev/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ashish-mali-dev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -233,6 +234,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/ashish-mali-dev/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ashish-mali-dev/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3794-reverse-string-prefix](https://github.com/ashish-mali-dev/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -292,6 +294,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ashish-mali-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ashish-mali-dev/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
 | ------- |
