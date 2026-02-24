@@ -1,17 +1,22 @@
 class Solution:
     def reversePrefix(self, word: str, ch: str) -> str:
-        j = word.find(ch)
-
-        if j == -1:
-            return word
-
-        res = list(word[:j+1])
+        res = list(word)
+        idx = -1
         
-        i = 0
-        right = j
-        while i < right:
-            res[i], res[right] = res[right], res[i]
-            i += 1
+        for i in range(len(word)):
+            if word[i] == ch:
+                idx = i
+                break
+        
+        if idx == -1:
+            return word
+        
+        left = 0
+        right = idx
+        
+        while left < right:
+            res[left], res[right] = res[right], res[left]
+            left += 1
             right -= 1
-
-        return "".join(res) + word[j+1:]
+        
+        return "".join(res)
