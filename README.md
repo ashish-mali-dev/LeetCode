@@ -62,6 +62,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashish-mali-dev/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1920-build-array-from-permutation](https://github.com/ashish-mali-dev/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -267,6 +268,7 @@
 | [0412-fizz-buzz](https://github.com/ashish-mali-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ashish-mali-dev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1920-build-array-from-permutation](https://github.com/ashish-mali-dev/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashish-mali-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
