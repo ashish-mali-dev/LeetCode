@@ -75,6 +75,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ashish-mali-dev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ashish-mali-dev/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -110,6 +111,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/ashish-mali-dev/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
@@ -266,6 +268,7 @@
 | [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/ashish-mali-dev/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
