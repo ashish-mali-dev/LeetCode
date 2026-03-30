@@ -11,4 +11,3 @@ class Solution:
             second+=1
         
         return res
-
