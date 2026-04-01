@@ -227,6 +227,7 @@
 | [0383-ransom-note](https://github.com/ashish-mali-dev/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ashish-mali-dev/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1603-design-parking-system](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-design-parking-system) |
 ## String
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ashish-mali-dev/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ashish-mali-dev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ashish-mali-dev/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
