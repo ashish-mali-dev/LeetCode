@@ -111,6 +111,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ashish-mali-dev/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2325-decode-the-message](https://github.com/ashish-mali-dev/LeetCode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ashish-mali-dev/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -254,6 +255,7 @@
 | [1768-merge-strings-alternately](https://github.com/ashish-mali-dev/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ashish-mali-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2325-decode-the-message](https://github.com/ashish-mali-dev/LeetCode/tree/master/2325-decode-the-message) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ashish-mali-dev/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ashish-mali-dev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/2942-find-words-containing-character) |
