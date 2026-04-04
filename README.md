@@ -77,6 +77,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashish-mali-dev/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ashish-mali-dev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -278,6 +279,7 @@
 | [2469-convert-the-temperature](https://github.com/ashish-mali-dev/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ashish-mali-dev/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashish-mali-dev/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
