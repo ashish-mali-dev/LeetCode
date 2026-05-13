@@ -62,6 +62,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/ashish-mali-dev/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/ashish-mali-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashish-mali-dev/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -392,6 +393,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/ashish-mali-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
 | ------- |
