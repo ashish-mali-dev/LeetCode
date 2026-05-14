@@ -112,6 +112,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ashish-mali-dev/LeetCode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/ashish-mali-dev/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ashish-mali-dev/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/ashish-mali-dev/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -257,6 +258,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ashish-mali-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/ashish-mali-dev/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ashish-mali-dev/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
