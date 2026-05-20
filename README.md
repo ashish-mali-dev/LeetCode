@@ -276,6 +276,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ashish-mali-dev/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ashish-mali-dev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/ashish-mali-dev/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
