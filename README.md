@@ -267,6 +267,7 @@
 | [0942-di-string-match](https://github.com/ashish-mali-dev/LeetCode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/ashish-mali-dev/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1332-remove-palindromic-subsequences](https://github.com/ashish-mali-dev/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
+| [1678-goal-parser-interpretation](https://github.com/ashish-mali-dev/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/ashish-mali-dev/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ashish-mali-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
