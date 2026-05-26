@@ -298,6 +298,7 @@
 | [2396-strictly-palindromic-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/ashish-mali-dev/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ashish-mali-dev/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/ashish-mali-dev/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ashish-mali-dev/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashish-mali-dev/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/ashish-mali-dev/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Linked List
 |  |
 | ------- |
