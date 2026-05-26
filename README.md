@@ -65,6 +65,7 @@
 | [1672-richest-customer-wealth](https://github.com/ashish-mali-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ashish-mali-dev/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1773-count-items-matching-a-rule](https://github.com/ashish-mali-dev/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ashish-mali-dev/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/ashish-mali-dev/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -270,6 +271,7 @@
 | [1678-goal-parser-interpretation](https://github.com/ashish-mali-dev/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/ashish-mali-dev/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/ashish-mali-dev/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [2000-reverse-prefix-of-word](https://github.com/ashish-mali-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ashish-mali-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
