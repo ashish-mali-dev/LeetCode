@@ -90,6 +90,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ashish-mali-dev/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ashish-mali-dev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/ashish-mali-dev/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ashish-mali-dev/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
