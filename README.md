@@ -215,6 +215,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/ashish-mali-dev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashish-mali-dev/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ashish-mali-dev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/ashish-mali-dev/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ashish-mali-dev/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/ashish-mali-dev/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -291,6 +292,7 @@
 | [3110-score-of-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/ashish-mali-dev/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ashish-mali-dev/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
@@ -313,6 +315,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/ashish-mali-dev/LeetCode/tree/master/3516-find-closest-person) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ashish-mali-dev/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -387,6 +390,7 @@
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ashish-mali-dev/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Number Theory
 |  |
 | ------- |
