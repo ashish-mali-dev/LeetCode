@@ -313,6 +313,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ashish-mali-dev/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashish-mali-dev/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashish-mali-dev/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashish-mali-dev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/ashish-mali-dev/LeetCode/tree/master/3516-find-closest-person) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -428,6 +429,7 @@
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/ashish-mali-dev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/ashish-mali-dev/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ashish-mali-dev/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
 | ------- |
