@@ -189,6 +189,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashish-mali-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashish-mali-dev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ashish-mali-dev/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashish-mali-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ashish-mali-dev/LeetCode/tree/master/0832-flipping-an-image) |
@@ -270,6 +271,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashish-mali-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashish-mali-dev/LeetCode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/ashish-mali-dev/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ashish-mali-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/ashish-mali-dev/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/ashish-mali-dev/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -345,6 +347,7 @@
 | [0152-maximum-product-subarray](https://github.com/ashish-mali-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/ashish-mali-dev/LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ashish-mali-dev/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/ashish-mali-dev/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashish-mali-dev/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
