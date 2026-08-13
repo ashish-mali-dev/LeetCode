@@ -3,18 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # Dutch National Flag - T(O(n)) S(O(1))
+        left=0
+        right=len(nums)-1
         i=0
-        j=len(nums)-1
-        k=0
 
-        while(k<=j):
-            if nums[k]==1:
-                k+=1
-            elif nums[k]==2:
-                nums[k],nums[j] = nums[j],nums[k]
-                j-=1
-            else:
-                nums[k],nums[i] = nums[i],nums[k]
-                i+=1
-                k+=1
+        while(i<=right):
+            if nums[i]==0:
+                nums[i],nums[left] = nums[left],nums[i]
+                left+=1
+            elif nums[i]==2:
+                nums[i],nums[right] = nums[right],nums[i]
+                right-=1
+                i-=1 # we dont want to increment i as it can place 0 in middle
+            i+=1
