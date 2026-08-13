@@ -461,4 +461,12 @@
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ashish-mali-dev/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashish-mali-dev/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashish-mali-dev/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
